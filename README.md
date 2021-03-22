@@ -1,6 +1,6 @@
 # Interview Preparation Status
 
-<h2><ins>For Freshers</ins></h2>
+<h2>For Freshers</h2>
 <br>
 
 
