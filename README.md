@@ -7,7 +7,7 @@
 
 **Check out the company, figure out some products and tech stack they are working with. Read about various interview experience available on internet or try to connect with someone who has an interview experience regarding the same over linkedIn** <br>
 
-* Introduce yourself - Have a short script prepared and rehearsed <br>
+* Introduce yourself - Have a short script prepared and rehearsed. Don't be cocky or try to prove that you are oversmart <br>
 
 **Check out the company, figure out some products and tech stack used** <br>
 *Stumbling and struggling is normal!*
@@ -20,12 +20,23 @@
 
 Some of the various categories related to DSA:
 1. Adhoc
-1. Dp
-1. Graphs
-1. Trees
-1. Bit manipulation
-1. Game Theory
-1. Number Theory
+2. Sorting
+3. Dp
+4. Graphs
+5. Trees
+6. Bit manipulation
+7. Game Theory
+8. Number Theory
+
+Consider the interview scenario:
+1. Interviewer shares the problems, check a dry run of the given example so you don't get confuse. Don't get excited if you have faced a similar question or don't get tensed if you haven't.
+1. Start off with a brute solution, explain it
+1. Try out different optimization, explain why do you think of this kind of optimization? Which observation helped you to get to this optimization?
+1. Think about trade off, if the problem can have better space complexity by trading off some time complexity. What scenario is it worth it? (this is not compulsory but you can always discuss with the interviewer) 
+1. Once you and the interviewer settle for an optimized solution, code it out and talk about every line while you are coding (even if it is a normal function call or a defined helper function or a loop), describe what you expect from that function call.
+1. Try to break done into functions if you feel it would be helpful
+1. Before submitting, come up with a corner edge case, dry run it with the code and check the output. If correct then submit.
+1. BINGO, YOU DID A GOOD JOB!!
 
 ***Talk out loud. If needed show that you need hint***
 
@@ -51,6 +62,15 @@ Enjoyed | | |
 Leadership | | |
 Conflict | | |
 <br>
+
+Consider the interview scenario:
+1. Asks about your project/s, straight up send the hosted link (make sure you host one).
+2. Interviewer does not necessarily wishes to go through the code, he just wants to know about your contribution to the project.
+3. Share your screen.
+4. Talk about tech stack, why you used, what other alternatives were available.
+5. Talk about functionalities implemented, difficulty faced, solution you implemented.
+6. Future scope that you wish to add.
+
 
 *Have a thorough understanding of the projects listed in the resume*
 <br><br>
