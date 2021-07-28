@@ -1,6 +1,7 @@
 # Interview Preparation Status
 
-**Check out the book - Cracking the Coding Interview**
+Check out the book - Cracking the Coding Interview<br>
+Github Repo - [Coding Interview University](https://github.com/jwasham/coding-interview-university) 
 
 <h2>For Freshers</h2>
 
@@ -101,6 +102,6 @@ Check out FAQs over gfg, other sites and striver sheet.
 **(Probably) Convey real and legitimate answers**
 <br><br>
 
-> Note : I have curated the above work from difference places, blogs, book and kept as a reference (and made some changes), feel free to use or fork and keep 
+> Note : I have curated the above work from difference places, blogs, book and kept as a reference (made some changes), feel free to use or fork and keep 
 as a copy for yourself. 
 > The file may update based on personal experiences or someone improving it.
