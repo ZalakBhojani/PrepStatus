@@ -1,5 +1,7 @@
 # Interview Preparation Status
 
+**Check out the book - Cracking the Coding Interview**
+
 <h2>For Freshers</h2>
 
 
@@ -84,7 +86,9 @@ Consider the interview scenario:
 
 
 ## CS fundamentals questions
-fill later
+
+**Study those subjects while it's in your syllabus**
+Check out FAQs over gfg, other sites.
 <br><br>
 
 
@@ -94,5 +98,8 @@ fill later
 1. What are your weakness?
 1. Any incident where you showcased your leadership skills?
 
-**Convey real and legitimate answers**
+**(Probably) Convey real and legitimate answers**
 <br><br>
+
+> Note : I have curated the above work from difference places, blogs, book and kept as a reference (and made some changes), feel free to use or fork and keep 
+as a copy for yourself
