@@ -88,7 +88,7 @@ Consider the interview scenario:
 ## CS fundamentals questions
 
 **Study those subjects while it's in your syllabus**
-Check out FAQs over gfg, other sites.
+Check out FAQs over gfg, other sites and striver sheet.
 <br><br>
 
 
@@ -102,4 +102,5 @@ Check out FAQs over gfg, other sites.
 <br><br>
 
 > Note : I have curated the above work from difference places, blogs, book and kept as a reference (and made some changes), feel free to use or fork and keep 
-as a copy for yourself
+as a copy for yourself. 
+> The file may update based on personal experiences or someone improving it.
